@@ -1,0 +1,17 @@
+@charset "utf-8";   /* web1/font.css */
+@font-face {
+	font-family: 'WebServeroff';
+	src: local("Web Serveroff"), url('./font/Serveroff.eot?#iefix') format('embedded-opentype'),
+		url('./font/WebServeroff.ttf') format('truetype'),
+		url('./font/WebServeroff.otf') format('opentype');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Gabato';
+	src: local("Gabato"), url('./font/Gabato.eot?#iefix') format('embedded-opentype'),
+		url('./font/Gabato.ttf') format('truetype'),
+		url('./font/Gabato.otf') format('opentype');
+		font-weight: normal;
+		font-style: normal;
+}
